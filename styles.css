@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.row{
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #FFF;
+}
+
